@@ -1,0 +1,4 @@
+CondMD
+PastPart+A3sg+Pnon+Loc
+PastNRINDF
+Conj
